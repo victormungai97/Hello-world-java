@@ -19,12 +19,12 @@ Please follow the steps carefully to avoid any mistakes along the way
    d. It's portable as the program will run on an program's JRE once it has 
      
 3. DOWNLOADING JAVA (as of 14/03/2017)
-  1. Go to http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html so as to get Java SE (Standard              Edition) dowload page.
-  2. Click on the radio button saying "Accept License Agreement" in the Java SE Development Kit 8u121
-  3. Look for the file description that matches your computer and select it's corresponding JDK. If you are on Windows, visit http://support.wdc.com/knowledgebase/answer.aspx?ID=9405#top to determine your type of Windows.
-  4. Once the jdk has been downloaded, click on the "Run" option or go to the folder where it was downloaded (probabl Downloads)
+  a. Go to http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html so as to get Java SE (Standard              Edition) dowload page.
+  b. Click on the radio button saying "Accept License Agreement" in the Java SE Development Kit 8u121
+  c. Look for the file description that matches your computer and select it's corresponding JDK. If you are on Windows, visit http://support.wdc.com/knowledgebase/answer.aspx?ID=9405#top to determine your type of Windows.
+  d. Once the jdk has been downloaded, click on the "Run" option or go to the folder where it was downloaded (probabl Downloads)
      and double click on it.
-  5. A wizard will appear. Complete the steps given while keeping the default options to complete the Java       installation process.
+  e. A wizard will appear. Complete the steps given while keeping the default options to complete the Java       installation process.
 
 4. SETTING UP JAVA PATH
    For us to fully access the Java compiler, we need to set the path to it so that the computer can know where to find it.
@@ -43,7 +43,7 @@ Please follow the steps carefully to avoid any mistakes along the way
 
 5. SETTING UP ECLIPSE
    Eclipse is an IDE (Integrated Development Environment) which is free for use to make Java programs.
-   1.Go to www.eclipse.org/downloads and select the latest Eclipse version (Neon 64 bit). Go on to download the available .exe
+   a.Go to www.eclipse.org/downloads and select the latest Eclipse version (Neon 64 bit). Go on to download the available .exe
       file.
-   2.On download completion, navigate to the folder containing the download and double click the exe file to run.
-   3.An installation wizard will appear. Select "Eclipse IDE for Java Developers" and follow the steps to complete installation.
+   b.On download completion, navigate to the folder containing the download and double click the exe file to run.
+   c.An installation wizard will appear. Select "Eclipse IDE for Java Developers" and follow the steps to complete installation.
